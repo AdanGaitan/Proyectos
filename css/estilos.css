@@ -15,14 +15,32 @@ body{
 
     text-align: center;
 }
+.tarjeta1{
+    padding: 70px 0;
+    border:solid 1px black;
+}
 .servicios{
 
     text-align: center;
+    padding: 60px 0;
 }
 footer{
 
 
     text-align: center;
-    padding-top: 20px;
-    text-decoration: solid;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    background: black;
+    color: white;
+    clear: both;
+    
+}
+
+img{
+   
+    float: left;
+    margin: 5px 0;
+    width: 500px;
+    height: 500px;
 }
