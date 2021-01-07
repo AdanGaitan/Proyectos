@@ -1,0 +1,28 @@
+@font-face {
+    font-family: ingles;
+    src: url(../font/Contle\ Signature.ttf);
+}
+
+body{
+    background-color: rgb(235, 219, 229);
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+
+.Nosotros{
+
+    text-align: center;
+}
+.servicios{
+
+    text-align: center;
+}
+footer{
+
+
+    text-align: center;
+    padding-top: 20px;
+    text-decoration: solid;
+}
